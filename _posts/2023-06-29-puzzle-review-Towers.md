@@ -17,7 +17,7 @@ In today's post, I'll be sharing my thoughts on a fascinating puzzle called "Tow
 
 ---
 
-### To Start,
+### To Start
 
 #### What is the puzzle "Towers"?
 
@@ -52,13 +52,9 @@ The goal is to place towers in all cells on the grid according to the rules:
 7. Finally, left-click on a clue to mark it as done (grey it out). To unmark a clue as done, left-click on it again.
 ![Tower-rule7](https://res.cloudinary.com/drzvnhgwx/image/upload/v1688460995/Tower-rule7_rwzjgj.png)
 
-### Tip!
+### Tip
 
-```
-Start with clues that say "1" or "5", as "clue 1" means 
-tallest tower (Tower 5) is blocking the others 
-and "clue 5" means towers 1 to 5 are in ascending order.
-```
+Start with clues that say "1" or "5", as "clue 1" means tallest tower (Tower 5) is blocking the others and "clue 5" means towers 1 to 5 are in ascending order.
 
 ![Tower-tip1](https://res.cloudinary.com/drzvnhgwx/image/upload/v1688460995/Tower-tip-startwith1_s8tpn4.png)
 
