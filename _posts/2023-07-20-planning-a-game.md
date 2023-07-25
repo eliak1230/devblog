@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Navigating My Game Development Journey: Brainstorming Ideas"
-date: 2023-07-11 21:54:45 +0900
+date: 2023-07-20 21:54:45 +0900
 categories: development
 ---
 
