@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Towers"
+title:  "Unlocking the Mystery of Towers: A Puzzle For Your Brain"
 date:   2023-06-28 21:54:45 +0900
 categories: development
 ---
@@ -76,7 +76,7 @@ I chose to review "Towers" as my first puzzle because it holds several differenc
 - `Marking` multiple possible towers as options becomes more convenient on a digital platform (right-clicking and typing a possible number function)
 - The online version offers `flexibility` in choosing the difficulty level and the grid sizes ranging from 3 to 9.
 
-#### Suggestions
+> #### Suggestions
 
 - To make the game more engaging, it would be beneficial to implement a continuous difficulty progression.
   - Currently, Towers offers fixed difficulty levels (such as 4x4, 5x5, etc.)
