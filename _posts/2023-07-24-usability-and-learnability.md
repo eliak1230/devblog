@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analyzing Usability and Learnability in Game Development (draft)"
+title: "Analyzing Usability and Learnability in Game Development"
 date: 2023-07-25 21:54:45 +0900
 categories: development
 ---
